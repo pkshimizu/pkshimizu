@@ -2,4 +2,4 @@
 
 ## Apps
 - [Remob Timer](https://remob-timer.web.app/) : モブプログラミング向けポロモードタイマー
-- [notee](https://www.notee.site) : 個人向けシンプルノートアプリ
+- [notee](https://www.notee.in) : 個人向けシンプルノートアプリ
