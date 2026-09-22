@@ -58,3 +58,4 @@
 - [notee](https://github.com/pkshimizu/notee) : 個人向けシンプルノートアプリ
 - [co](https://github.com/pkshimizu/co) : Command runnter
 - [tell](https://github.com/pkshimizu/tell) : Tell you something important
+- [AppAnchor](https://appanchor.noncore.net/) : アプリケーション配置ツール
